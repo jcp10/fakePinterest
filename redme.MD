@@ -6,7 +6,8 @@ Este projeto foi criado como parte do curso da Hashtag Treinamentos, utilizando 
 
 - **Criar Conta:** Página para criar uma conta, onde os usuários podem fornecer seu e-mail, nome de usuário e senha.
 - **Login:** Página de login para acessar a conta existente.
-- **Perfil:** Os usuários têm acesso ao seu perfil, onde podem fazer upload de fotos e visualizar as fotos de todos os usuários.
+- **Perfil:** Os usuários têm acesso ao seu perfil, onde podem fazer upload de fotos.
+- **Feed:** No feed são exibidas todas as postagens dos usuário.
 
 ## Autenticação
 
